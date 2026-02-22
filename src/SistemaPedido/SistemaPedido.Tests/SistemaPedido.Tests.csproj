@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\SistemaPedido.Console\SistemaPedido.Console.csproj" />
+    </ItemGroup>
+
 </Project>
