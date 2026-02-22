@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SistemaPedido.Console/SistemaPedido.Console.csproj" />
+  <Project Path="SistemaPedido.Tests/SistemaPedido.Tests.csproj" />
+</Solution>
