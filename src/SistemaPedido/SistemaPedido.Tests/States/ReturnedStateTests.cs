@@ -1,7 +1,7 @@
 using SistemaPedido.Console.Context;
 using SistemaPedido.Console.States;
 
-namespace SistemaPedido.Tests;
+namespace SistemaPedido.Tests.States;
 
 public class ReturnedStateTests
 {
